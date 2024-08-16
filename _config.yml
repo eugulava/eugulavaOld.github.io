@@ -1,7 +1,8 @@
 title: Ekaterina Ugulava
-theme: jekyll-theme-minimal
+logo: assets/Ekaterina Ugulava  e.ugulava@uva.nl.jpg
+description: PhD Candidate in Econometrics @UvA
 
-description: [A short description of your site's purpose]
+theme: jekyll-theme-minimal
 
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
