@@ -4,6 +4,8 @@ I am a PhD candidate in Econometrics in the Quantitative Economics Section at th
 My advisors are [Prof. dr. H. Peter Boswijk](https://www.uva.nl/en/profile/b/o/h.p.boswijk/h.p.boswijk.html#Profile), [dr. Sander Barendse](https://sites.google.com/view/sanderbarendse/)  and [dr. Paolo Gorgi](https://www.pgorgi.com/). 
 My research focuses on financial time-series, in particular long-memory score-driven models and long-horizon volatility predictions. 
 
+***
+
 ### Research
 
 
