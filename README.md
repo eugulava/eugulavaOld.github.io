@@ -1,4 +1,4 @@
-Welcome to my personal homepage! 
+# Welcome to my personal homepage! 
 
 ### Education
 Economics, PhD
